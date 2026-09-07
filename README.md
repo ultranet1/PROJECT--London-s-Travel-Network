@@ -34,7 +34,7 @@ Source: [Transport for London (TfL) Open Data](https://tfl.gov.uk/info-for/open-
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/USERNAME/Exploring-Londons-Travel-Network.git
+   git clone https://github.com/ultranet1/Exploring-Londons-Travel-Network.git
    ```
 2. Open `notebook.ipynb` in Jupyter Notebook or Google Colab.
 3. Run all cells to reproduce the analysis.
@@ -44,5 +44,3 @@ Source: [Transport for London (TfL) Open Data](https://tfl.gov.uk/info-for/open-
 - Images are for visualization purposes in the notebook.
 
 ---
-**Author:** Hassan Alarjani  
-*Made with ❤️ as part of a Data Engineering journey.*
